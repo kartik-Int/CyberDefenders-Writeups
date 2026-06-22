@@ -123,3 +123,7 @@ Plain text the cmd and get the answer.
 | MITRE ATT\&CK Technique      | T1565.001 – Stored Data Manipulation |
 | Tools Used for Investigation | WireShark, Rapid7, Splunk            |
 | Final Verdict                | Confirmed Compromise with RCE        |
+
+
+
+Certificate: https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Defend\_and\_Defeat/jetbrains/
