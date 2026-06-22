@@ -1,4 +1,4 @@
-# Page 1
+# JetBrains Lab
 
 ### Scenario
 
@@ -13,6 +13,8 @@ As part of the investigation, You are provided with a packet capture (PCAP) of t
 * **Lab Title**: JetBrains Lab
 * **Course**: [Network Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/?categories=network-forensics)
 * **Writeup-By**: Kartik Sharma
+
+### Investigation
 
 #### Q1. Identifying the attacker's IP address helps trace the source and stop further attacks. What is the attacker's IP address?
 
@@ -107,7 +109,7 @@ Before we start finding, we should know why it is unable to escape.The container
 
 Plain text the cmd and get the answer.
 
-#### &#x20;Investigation Summary <a href="#c773" id="c773"></a>
+### &#x20;Investigation Summary <a href="#c773" id="c773"></a>
 
 | Category                     | Details                              |
 | ---------------------------- | ------------------------------------ |
