@@ -52,3 +52,7 @@ Identifying which scripts have been exploited is crucial for mitigating vulnerab
 Exploiting vulnerabilities to access sensitive system files is a common tactic used by attackers. Can you identify the specific payload the attacker used to access a sensitive system file?
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+I successfully completed RetailBreach Blue Team Lab at @CyberDefenders! https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Defend\_and\_Defeat/retailbreach/
+
+\#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender
